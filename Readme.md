@@ -101,7 +101,7 @@ The main motive of to build this application to manage the employee, teams, lead
 
 Client Repository: https://github.com/krishh21/Mern-stack-EMS-client
 
-Server Repository: 
+Server Repository: https://github.com/krishh21/Mern-stack-Ems-Server
 
 Follow these steps to set up the Employee Management System on your local machine:
 
