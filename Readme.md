@@ -72,8 +72,7 @@ The main motive of to build this application to manage the employee, teams, lead
 ## Flow Chart
 ![Flow Chart](./screenshots/Flow.png "Flow Chart")
 
-## Video
-[![Video](./screenshots/thumbnail.png)](https://youtu.be/jcdBcxDJ2x8)
+
 
 
 
@@ -94,28 +93,14 @@ The main motive of to build this application to manage the employee, teams, lead
 ![](/screenshots/Admin%20Panel/6.png)
 ![](/screenshots/Admin%20Panel/7.png)
 ![](/screenshots/Admin%20Panel/8.png)
-![](/screenshots/Admin%20Panel/9.png)
-![](/screenshots/Admin%20Panel/10.png)
-![](/screenshots/Admin%20Panel/11.png)
-![](/screenshots/Admin%20Panel/12.png)
-![](/screenshots/Admin%20Panel/13.png)
-![](/screenshots/Admin%20Panel/14.png)
-![](/screenshots/Admin%20Panel/15.png)
-![](/screenshots/Admin%20Panel/16.png)
-![](/screenshots/Admin%20Panel/17.png)
-![](/screenshots/Admin%20Panel/18.png)
-![](/screenshots/Admin%20Panel/19.png)
+
 
 ### Employee
 ![](/screenshots/Employee%20Panel/1.png)
 ![](/screenshots/Employee%20Panel/2.png)
 ![](/screenshots/Employee%20Panel/3.png)
-![](/screenshots/Employee%20Panel/4.png)
-![](/screenshots/Employee%20Panel/5.png)
-![](/screenshots/Employee%20Panel/6.png)
-![](/screenshots/Employee%20Panel/7.png)
-![](/screenshots/Employee%20Panel/8.png)
-![](/screenshots/Employee%20Panel/9.png)
+
+
 
 
 ## Installation
