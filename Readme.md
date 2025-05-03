@@ -81,7 +81,7 @@ The main motive of to build this application to manage the employee, teams, lead
 ### Login
 ![](/screenshots/1.png)
 ![](/screenshots/2.png)
-![](/screenshots/3.png)
+
 
 
 ### Admin
