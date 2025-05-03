@@ -91,9 +91,7 @@ The main motive of to build this application to manage the employee, teams, lead
 
 
 
-### Employee
-![](/screenshots/Employee%20Panel/1.png)
-![](/screenshots/Employee%20Panel/2.png)
+
 
 
 
