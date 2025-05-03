@@ -88,17 +88,13 @@ The main motive of to build this application to manage the employee, teams, lead
 ![](/screenshots/Admin%20Panel/1.png)
 ![](/screenshots/Admin%20Panel/2.png)
 ![](/screenshots/Admin%20Panel/3.png)
-![](/screenshots/Admin%20Panel/4.png)
-![](/screenshots/Admin%20Panel/5.png)
-![](/screenshots/Admin%20Panel/6.png)
-![](/screenshots/Admin%20Panel/7.png)
-![](/screenshots/Admin%20Panel/8.png)
+
 
 
 ### Employee
 ![](/screenshots/Employee%20Panel/1.png)
 ![](/screenshots/Employee%20Panel/2.png)
-![](/screenshots/Employee%20Panel/3.png)
+
 
 
 
