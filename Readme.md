@@ -76,18 +76,8 @@ The main motive of to build this application to manage the employee, teams, lead
 
 
 
-## Screenshots
-
-### Login
-![](/screenshots/1.png)
-![](/screenshots/2.png)
 
 
-
-### Admin
-![](/screenshots/Admin%20Panel/1.png)
-![](/screenshots/Admin%20Panel/2.png)
-![](/screenshots/Admin%20Panel/3.png)
 
 
 
